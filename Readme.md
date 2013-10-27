@@ -3,7 +3,7 @@
 
 <h4>
 Notes: 
-- there are 6 t of types of headings (h1-h6)
+- there are 6 types of headings (h1-h6)
 
 <h4>
 
